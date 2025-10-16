@@ -1,0 +1,1 @@
+import { CapacitorConfig } from '@capacitor/cli'; const config: CapacitorConfig={appId:'com.cotillonxpress.booth360',appName:'Cotillón Xpress 360',webDir:'dist',bundledWebRuntime:false}; export default config;

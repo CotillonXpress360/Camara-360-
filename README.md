@@ -1,2 +1,1 @@
-# Camara-360-
-Cotillon Xpress 360
+Sube el contenido a GitHub y ejecuta Actions → Build Android APK.
